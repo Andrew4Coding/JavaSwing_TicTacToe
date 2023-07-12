@@ -60,7 +60,6 @@ public class Mechanic{
             }
 
         }
-        // System.out.println(isWin);
         return isWin;
 
     }
