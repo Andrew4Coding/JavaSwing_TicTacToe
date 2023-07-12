@@ -1,1 +1,2 @@
-# JavaSwing_TicTacToe
+# JavaSwing TicTacToe
+Using JSwing Library to create simple tic tac toe
