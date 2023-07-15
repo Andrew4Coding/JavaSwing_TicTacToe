@@ -1,16 +1,16 @@
 # TIC TAC TOE WITH GUI (JAVA - JSWING)
 
 - Java Version  : JDK 17.0.7
-- Library       : Java Swing
+- Library: Java Swing
 - IDE           : Jetbrains - Intelij IDEA
 
 ## Instruction
-1. As window opened, you can just play the game by clicking at the box.
-2. First player symbol is "X", and Second player symbol is "O".
-3. Players take turns to fill the squares with symbols.
-4. Player wins if they manage to make line containing 3 of their symbol (Horizontally, Vertically, and Diagonally).
+1. As the window opened, you can just play the game by clicking at the box.
+2. First player's symbol is "X", and the Second player's symbol is "O".
+3. Players take turns filling the squares with symbols.
+4. Player wins if they manage to make a line containing 3 of their symbol (Horizontally, Vertically, and Diagonally).
 5. Tie game occurs if all squares are filled and no player has made a line.
-6. To Reset game, press the "Reset" button.
+6. To Reset the game, press the "Reset" button.
 7. To exit, press the "Exit" button.
 
 ## Example
